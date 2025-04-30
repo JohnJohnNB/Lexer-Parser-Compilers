@@ -1,23 +1,24 @@
-# INE5622 - Introdução a Compiladores
+# INE5622 - Introduction to Compilers
 
-Esse projeto visa construir um analisador léxico e um analisador sintático, para os quais serão utilizados em cima de uma gramática LL(1), identificando códigos válidos ou erros léxicos e sintáticos em cima do código fornecido.
+This project aims to build a lexical analyzer and a syntax analyzer based on an LL(1) grammar, which will identify valid code or report lexical and syntactic errors in the provided input.
 
-Feito por: Gabriel Ávila, Guilherme Prandi, João Victor Nery e Victor Camargo
+Created by: Gabriel Ávila, Guilherme Prandi, João Victor Nery, and Victor Camargo
 
-## Funcionalidades
+## Features
 
-- Analisador Léxico
-- Analisador Sintático
-- Visualização da Parse tree
+- Lexical Analyzer  
+- Syntax Analyzer  
+- Parse Tree Visualization
 
-## Instruções para execução
+## Execution Instructions
 
-1. Digite ou cole seu código LSI-2024-1 na área de texto de entrada.
-2. Clique no botão "Analisar" para realizar a análise léxica e sintática.
-3. Veja os resultados da análise léxica na tabela.
-4. Veja os passos de derivação e a árvore de análise.
+1. Type or paste your LSI-2024-1 code into the input text area.  
+2. Click the "Analyze" button to perform lexical and syntactic analysis.  
+3. View the lexical analysis results in the table.  
+4. Check the derivation steps and the parse tree.
 
-## Casos de teste
-- Programa válido
-- Programa com erros léxicos
-- Programa com erros sintáticos
+## Test Cases
+
+- Valid program  
+- Program with lexical errors  
+- Program with syntactic errors
